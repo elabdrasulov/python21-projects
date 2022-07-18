@@ -8,7 +8,4 @@ urlpatterns = [
     ('update/id', car_update),
     ('delete/id', car_delete),
     ('comment/id', comment)
-    
-    # ('category-create/', category_create),
-    # ('comment-create/', create_comment),
 ]
